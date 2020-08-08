@@ -6,7 +6,7 @@ src = "src"
 title = "RI"
 
 [output.html]
-theme = "light"
+theme = "src/theme"
 default-theme = "light"
 preferred-dark-theme = "light"
 
