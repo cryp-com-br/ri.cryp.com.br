@@ -1,0 +1,12 @@
+[book]
+authors = ["willyrgf"]
+language = "en"
+multilingual = false
+src = "src"
+title = "RI"
+
+[output.html]
+theme = "light"
+default-theme = "light"
+preferred-dark-theme = "light"
+
