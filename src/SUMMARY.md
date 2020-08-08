@@ -1,4 +1,4 @@
 # Summary
 
 - [Cartas](./letters.md)
-    - [Correlação, Volatilidade e Dólar](./corr_vol_dol.md)
+    - [08 de Agosto de 2020](./2020_08_08_corr_vol_dol.md)
